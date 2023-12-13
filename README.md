@@ -1,5 +1,6 @@
 # CODSOFT-JAVA-Task1-Number_Game
 To Understand this repository Please read "READMe.md" file.
+this is eclipse Java Project Structure,so Java files are in src folder.<br>
 
 In this repository, I have posted task-1 that I have completed during my internship at "CodSoft".  <br>
 
